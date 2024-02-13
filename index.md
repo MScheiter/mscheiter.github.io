@@ -9,4 +9,4 @@ layout: home
 ---
 
 
-Welcome to my homepage! It's currently under construction, but feel free to check back later as I add more content.
+Welcome to my homepage! It's still under construction, but feel free to explore what's already there or check back later as I add more content.
