@@ -6,13 +6,13 @@ layout: home
 
 ---
 
-![under construction](figs/under_construction.jpg)
 
-## UNDER CONSTRUCTION!
+Welcome to my homepage! I'm Matthias, a Mathematical Geophysicist and currently working as a postdoc at the University of Tasmania in Hobart. 
 
-Welcome to my homepage! It's still under construction -- but feel free to explore what's already there (spoiler: not much) or check back later as I add more content. Fabulous things are coming!
-
-May I fascinate you with some <a href="https://mscheiter.github.io/publications/" target="_blank">recommended literature</a> in the meantime.
+On these pages you can find some information about my research and wider interests. Feel free to contact me if you have any questions, feedback or ideas for collaboration!
 
 
-<sub>*Figure credit Adobe Stock ID 89026793*<sup>
+This website is still in the build-up phase, but some things are already working. For example, you can check out a short but fine list of <a href="https://mscheiter.github.io/publications/" target="_blank">absolutely riveting literature</a>!
+
+
+
